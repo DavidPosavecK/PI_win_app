@@ -1,11 +1,5 @@
 # Softver za praćenje rada obrta za usluge čišćenja
 
-## Podaci o studentu
-
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-David Posavec Kovač | dposaveck20@foi.hr | 0016150629 | dposaveck
-
 
 ## Opis domene
 Vlasnica obrta za usluge čišćenja želi investirati u softver koji će joj pomoći u organizaciji i vođenju poslovanja.
