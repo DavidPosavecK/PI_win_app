@@ -13,6 +13,3 @@ Dakle softver treba imati sljedeće elemente:
 - Mogućnost brisanja i izmjene termina i podatak
 
 Zaposlenici će u sustavu moći vidjeti raspored te podatke o klijentu poput lokacije, kontakta te vrste usluge. Zaposlenici će preko softvera moći zabilježiti kada su počeli s izvršavanje zadatka te kada su završili.
-
-## Zadatak
-Na ovom linku je dostupan [korisnički zahtjev](https://github.com/foivz/pi2023-zadace-dposaveck/blob/master/Documentation/Korisni%C4%8Dki%20zahtjevi%20-%20obrt%20za%20%C4%8Di%C5%A1%C4%87enje.pdf)
